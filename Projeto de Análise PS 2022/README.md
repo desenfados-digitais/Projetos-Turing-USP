@@ -1,0 +1,1 @@
+Este projeto foi entregue para o Processo Seletivo (PS) 2022 do Turing USP. Aqui consta apenas a parte de análise, que envolvia analisar um conjunto de dados sobre renda nos Estados Unidos e tirar alguma conclusão de interesse, juntamente com visualizações.
